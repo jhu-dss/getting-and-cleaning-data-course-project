@@ -1,3 +1,6 @@
+# source raw data
+A [link](https://github.com/jhu-dss/getting-and-cleaning-data-course-project/blob/master/README.md "dataset README").
+
 # one R script called run_analysis.R that does the following:
 
 1. Merges the training and the test sets to create one data set.
